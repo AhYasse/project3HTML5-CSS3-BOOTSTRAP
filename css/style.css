@@ -1,4 +1,4 @@
-/* --------------------General style---------------------- */
+/* --------------------General---------------------- */
 *{
     margin: 0;
     padding: 0;
@@ -222,6 +222,7 @@ display: none;
     position: relative;
     color: #ffffff;
     box-shadow: -5px 5px 20px 10px rgb(201, 198, 241);
+    height: auto;
   }
   .postcard.dark {
     background-color: #18151f;
