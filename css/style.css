@@ -212,7 +212,7 @@ display: none;
       /*artical*/
        /* News */
   .postcard {
-    height: 400px;
+    height: auto;
     flex-wrap: wrap;
     display: flex;
     box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.66);
@@ -222,7 +222,6 @@ display: none;
     position: relative;
     color: #ffffff;
     box-shadow: -5px 5px 20px 10px rgb(201, 198, 241);
-    height: auto;
   }
   .postcard.dark {
     background-color: #18151f;
